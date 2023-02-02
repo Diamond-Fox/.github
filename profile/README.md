@@ -14,6 +14,10 @@ Acually there is 2 members on the Diamond Fox Team : <br>
 -Alexis.D Founder <br>
 <br>
 -Emilien.G Co-Founder <br>
+<br>
+-Tylan.T Dev <br>
+<br>
+-Antoine.D Dev <br>
 
 - <h4> How to contact </h4>
 Like the A-Team, you can't find us. We find you. <br>

@@ -10,7 +10,8 @@ DF does not currently have a computer preference, the only limit being the imagi
 📦
 
 - <h4> Who Is The Members of Diamond Fox </h4>
-Acually there is 4 members on the Diamond Fox Team : <br>
+Acually there is 4 members on the Diamond Fox Team : 
+<br>
 -Alexis.D Founder <br>
 <br>
 -Tylan.T Dev <br>
